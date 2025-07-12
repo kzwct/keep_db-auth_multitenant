@@ -28,7 +28,7 @@ const WorkflowsEmptyState = () => {
       icon: BellAlertIcon,
     },
     {
-      href: "https://slack.keephq.dev",
+      href: "https://wecantest.slack.com/",
       label: "Get support on your Workflow",
       icon: FaSlack,
     },

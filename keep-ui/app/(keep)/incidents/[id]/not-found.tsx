@@ -13,7 +13,7 @@ export default function NotFound() {
       <Subtitle>
         If you believe this is an error, please contact us on{" "}
         <Link
-          href="https://slack.keephq.dev/"
+          href="https://wecantest.slack.com/"
           target="_blank"
           rel="noopener noreferrer"
         >

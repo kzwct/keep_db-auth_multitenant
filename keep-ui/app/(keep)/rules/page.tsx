@@ -5,6 +5,6 @@ export default function Page() {
 }
 
 export const metadata = {
-  title: "Keep - Correlation rules",
+  title: "WeCanTest - Correlation rules",
   description: "Create correlation rules to group alerts into incidents",
 };

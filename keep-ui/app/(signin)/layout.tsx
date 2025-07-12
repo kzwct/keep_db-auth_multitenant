@@ -26,7 +26,7 @@ export default function RootLayout({
                 className="object-contain h-full"
               />
               <Text className="text-tremor-title font-bold text-tremor-content-strong">
-                Keep
+                WeCanTest
               </Text>
             </div>
             <Card

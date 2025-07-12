@@ -82,7 +82,7 @@ def get_metrics(
       # Label values will be equal to the last incident's alert payload value matching the label.
       # Attention! Don't add "flaky" labels which could change from alert to alert within the same incident.
       # Good labels: ['labels.department', 'labels.team'], bad labels: ['labels.severity', 'labels.pod_id']
-      # Check Keep -> Feed -> "extraPayload" column, it will help in writing labels.
+      # Check WeCanTest -> Feed -> "extraPayload" column, it will help in writing labels.
 
       params:
         labels: ['labels.service', 'labels.queue']

@@ -100,7 +100,7 @@ export const UserInfo = ({ session }: UserInfoProps) => {
         <li className="flex text-xs items-center gap-2">
           <LinkWithIcon
             icon={FaSlack}
-            href="https://slack.keephq.dev/"
+            href="https://wecantest.slack.com/"
             className="w-auto pr-3.5"
             target="_blank"
           >

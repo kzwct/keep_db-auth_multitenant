@@ -63,7 +63,7 @@ export function getConfig(): InternalConfig {
     // The URL of the documentation site
     KEEP_DOCS_URL: process.env.KEEP_DOCS_URL || "https://docs.keephq.dev",
     KEEP_CONTACT_US_URL:
-      process.env.KEEP_CONTACT_US_URL || "https://slack.keephq.dev/",
+      process.env.KEEP_CONTACT_US_URL || "https://wecantest.slack.com/",
     KEEP_HIDE_SENSITIVE_FIELDS:
       process.env.KEEP_HIDE_SENSITIVE_FIELDS === "true",
     KEEP_WORKFLOW_DEBUG: process.env.KEEP_WORKFLOW_DEBUG === "true",
